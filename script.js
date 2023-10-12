@@ -20,3 +20,4 @@ async function getQuotes() {
 
 // On Load
 getQuotes();
+// newQuote();
